@@ -1,0 +1,1 @@
+For detailed instruction, please visit https://community.home-assistant.io/t/arduino-relay-switches-over-wifi-controlled-via-hass-mqtt-comes-with-ota-support/13439
